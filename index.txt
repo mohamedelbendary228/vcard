@@ -1,21 +1,21 @@
-vCard - ahmdaeyz
+vCard - mohamedelbendary
 
 # sidebar
 
-alt = Ahmed Aboelyazeed
-Ahmed Aboelyazeed
+alt = Mohamed Elbendary
+Mohamed Elbendary
 Mobile Engineer
 
 Show Contacts
 
 Email
-ahmdaeyz@gmail.com
+albendary.com@gmail.com
 
 Phone
-+201027742981
++201016804509
 
 Birthday
-June 09, 1999
+Aug 22, 1999
 
 Location
 Dokki, Giza, Egypt
@@ -29,9 +29,11 @@ Resume
 
 About me
 
-I’m familiar with a variety of programming languages, including Dart,
-Kotlin and Java. And frameworks like Flutter and Android. I also have
-experience building packages and libraries. But I’m always adding
+I’m interested in mobile application development. Now I write dart
+and use flutter framework to build large scale projects from scratch
+using the best practices, I manipulated and implemented object-oriented
+programming models. Planned and developed interfaces that simplified overall
+management and offered ease of use. I’m always adding
 new skills to my repertoire. I’m also eager to meet other software
 engineers in the area, so feel free to connect!
 
@@ -51,9 +53,9 @@ Testimonials
 
 alt = Tarek Alabd
 Tarek Alabd
-I am so grateful to work with Ahmed, in whom I found all the enthusiasm I could not find in anyone else, and his ability to learn and adapt quickly and effectively.
+I am so grateful to work with Mohamed, in whom I found all the enthusiasm I could not find in anyone else, and his ability to learn and adapt quickly and effectively.
 I was also drawn to his ability to adequately analyze the problems he encounters, then think of the most appropriate ways to solve that problem, present his solutions to his colleagues, and ultimately choose the best solution.
-Ahmed is an intelligent person, thinks about problems logically, and is very good at learning new things and concepts quickly.
+Mohamed is an intelligent person, thinks about problems logically, and is very good at learning new things and concepts quickly.
 
 
 # resume
@@ -62,28 +64,35 @@ Resume
 
 Education
 
-Tanta University, Computer Engineering
-2017 — 2022
-Key courses: Data Structures and Algorithms, Design Patterns, Databases, Compilers and language design.
+Minufiya University, Computer Engineering
+2017 — 2021
+Key courses: Data Structures and Algorithms, Design Patterns, Databases, Software Engineering 1,2.
 
 Experience
 
 Software Engineer, MegaTrust Group
-2020 — Present
-o Designed reusable components across many levels that are utilized by the team in projects, reducing initial project setup time by 20%.
-o Participated in the development of 3 apps based on a clean architecture using the Flutter framework.
-o Mentored 5 interns to bring them up to speed on the most recent Flutter best practices.
+Nov 2020 — Present
+• Designed reusable components across many levels that are utilized by the team in projects, 
+  reducing initial project setup time by 20%
+• Participated in the development of 3 apps based on a clean architecture using the Flutter framework.
+• Analyzed code defects and failures and presented code refactors and design fixes.
+• Mentored 5 interns to bring them up to speed on the most recent Flutter best practices.
+              
 
-Co-Organizer, GDG Damanhour
-2019 — Present
-o GDG Damanhour [Google Developer Group -Damanhour].
-o One of the first team founders and IT Head of GDG Damanhour.
-o We create tech events about software and programming.
-o I helped organize more than 50 events across 3 years with hundreds of attendees.
+Flutter Developer Intern, Let's Develop It
+Sep 2020 — Nov 2020
+• Worked on an e-commerce project for a client
+• Created plans and communicated deadlines to complete projects on time.
+              
 
-Freelancer, Upwork
-2021 — Present
-o I have completed up to 2 projects including bug fixes and enhancements.
+Organize, GDG Damanhour
+2018 — 2020
+• GDG Damanhour [Google Developer Group -Damanhour].
+• One of the first team founders.
+• We create tech events about software and programming.
+• I helped organize more than 50 events across 3 years with hundreds of attendees.
+              
+
 
 My skills
 
@@ -91,6 +100,6 @@ My skills
 Flutter
 80%
 Dart
-90%
+80%
 OOP
 80%
